@@ -47,7 +47,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/classic-cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/holiday-cookie-decorating-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/kids-creative-cookie-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/family-deluxe-cookie-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/diy-cookie-art-kit/
         </loc>
     </url>
     <url>
